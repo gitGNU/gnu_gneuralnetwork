@@ -11,3 +11,4 @@ configure
 Makefile.in
 Makefile
 aclocal.m4
+gneural-*.tar.*
