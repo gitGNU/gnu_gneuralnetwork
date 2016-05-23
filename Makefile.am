@@ -1,3 +1,3 @@
 
 AUTOMAKE_OPTIONS = foreign
-SUBDIRS = src include
+SUBDIRS = src include tests
