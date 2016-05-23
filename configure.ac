@@ -29,4 +29,4 @@ AC_FUNC_MALLOC
 #AC_CHECK_FUNCS([pow sqrt])
 
 AC_CONFIG_FILES([Makefile])
-AC_OUTPUT([src/Makefile])
+AC_OUTPUT([src/Makefile include/Makefile])
