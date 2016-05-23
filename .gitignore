@@ -6,6 +6,7 @@ config.status
 final_results.dat
 src/.deps
 src/*.o
+src/gneural_network
 configure
 Makefile.in
 Makefile
